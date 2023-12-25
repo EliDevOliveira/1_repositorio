@@ -1,1 +1,5 @@
-Teste de no 1
+Teste de no 1 commit
+
+Primeiro commit feito com sucesso pelo PC.
+
+Agora atualizando pelo Git para atualizar no PC
